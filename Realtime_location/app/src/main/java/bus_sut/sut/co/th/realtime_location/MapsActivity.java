@@ -26,7 +26,7 @@ import static bus_sut.sut.co.th.realtime_location.R.id.map;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback ,GoogleApiClient.ConnectionCallbacks
         ,GoogleApiClient.OnConnectionFailedListener ,LocationListener {
-
+//vflsdmgklsdngkjsdnkjgbjdskb
     private GoogleMap mMap;
     GoogleApiClient mGoogleApiClient;
     Location mLastLocation;
